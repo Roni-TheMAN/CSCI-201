@@ -1,0 +1,4 @@
+C:/Users/ronil/CLionProjects/CSCI202 final project/cmake-build-debug/CMakeFiles/CSCI202_final_project.dir
+C:/Users/ronil/CLionProjects/CSCI202 final project/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/ronil/CLionProjects/CSCI202 final project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ronil/CLionProjects/CSCI202 final project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
